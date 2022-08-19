@@ -1,0 +1,22 @@
+array literals
+create array [literals,constructure(exeptional case)]
+what is element
+length poperty
+zero based Index
+
+Creating array
+length
+arry type
+Index
+Accessing array elements
+Array element looping using for loop
+last element access arry using length and at-method
+mutating [length, index]
+Array method [ push,pop,shift,unshift] it will mutating original arry
+array splice method
+array slice method
+arry sort
+arry reverse
+array foreach
+
+
