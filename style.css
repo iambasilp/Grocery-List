@@ -120,6 +120,7 @@ a.createdBy{
     font-size:2rem ;
     color:yellow;
 }
+
 .owner{
     background-color: white;
     width: 100%;
@@ -150,9 +151,13 @@ a.createdBy{
     opacity: 0;
     transition: 1s ease-out;
 }
-.kitchen_list li i{
+.kitchen_list li .f-trash,.f-edit{
     font-size: 1.15rem;
     transition: .3s;
+}
+.kitchen_list li .f-trash{
+    margin-left: auto;
+    margin-right: 1rem;
 }
 .kitchen_list li i:hover{
     color: red;
