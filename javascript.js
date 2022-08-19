@@ -14,7 +14,6 @@ function showList(){
       let trash = document.createElement('i')
       trash.classList.add('ri-delete-bin-5-fill','f-trash')
       li.appendChild(trash)
-
       // create edit button
       let editButton = document.createElement('i')
       editButton.classList.add('ri-pencil-fill','f-edit')
