@@ -8,7 +8,9 @@ function showList(){
    if(Input.value != 0){
       let getInputData = Input.value
       li = document.createElement('li')
-      li.innerText = getInputData;
+      let spanEle = document.createElement('span')
+      li appendChild(spanEle)
+      spanEle.innerText = getInputData;
       KitchenList.appendChild(li)
       Input.value = ""
       let trash = document.createElement('i')
@@ -46,7 +48,8 @@ function editfunction(event){
    if(event.target.classList[1] === 'f-edit'){
       let edittedValue = prompt('please add new text')
       let parent = event.target.parentElement;
-      parent.innerText = edittedValue
+      let spanEle = parent.querySelector('span')
+      spanEle.innerText = edittedValue
    }
 }
 KitchenList.addEventListener('click',deletefunction)
