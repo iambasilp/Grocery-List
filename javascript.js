@@ -9,7 +9,7 @@ function showList(){
       let getInputData = Input.value
       li = document.createElement('li')
       let spanEle = document.createElement('span')
-      li appendChild(spanEle)
+      li.appendChild(spanEle)
       spanEle.innerText = getInputData;
       KitchenList.appendChild(li)
       Input.value = ""
