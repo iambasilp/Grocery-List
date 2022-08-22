@@ -6,6 +6,6 @@ built with 👇
 Html, CSS and JavaScript 
 
 Features ✨
-- you can add unlimited items
-- It is responsive  
+- you can add unlimited items ♾️
+- It is responsive  📱💻
 
