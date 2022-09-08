@@ -28,7 +28,10 @@ body{
 }
 .container  h2{
   text-align: center;
- 
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+  
   font-size: 2rem;
 }
 .container .kithen_header .kithenInput{
