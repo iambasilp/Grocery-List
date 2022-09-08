@@ -33,7 +33,7 @@ body{
 }
 .container .kithen_header .kithenInput{
     flex: 1;
-    border: 1px solid red;
+    border: 1px solid purple;
     outline: none;
     width: 100%;
     font-size: 1rem;
@@ -47,7 +47,7 @@ body{
  a.button{
     display: inline-block;
     text-decoration: none;
-    background-color: red;
+    background-color: purple;
     color: white;
     display: flex;
     justify-content: center;
