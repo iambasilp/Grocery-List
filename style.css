@@ -40,6 +40,9 @@ body{
     font-weight: 600;
     letter-spacing: .5px;
     padding: 1rem 1.75rem;
+    font-weight: 500;
+    text-transform: capitalize;
+     font-weight: bold;
 }
  a.button{
     display: inline-block;
@@ -78,6 +81,9 @@ a.createdBy{
     justify-content: space-between;
     animation: slide 0.4s;
     border-radius: .2rem;
+    text-transform: capitalize;
+    letter-spacing: .8px;
+    font-weight: 500;
 }
 .box{
     background-color:red;

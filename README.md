@@ -5,7 +5,10 @@ kitchen items lister is a simple project from the Idea of adding kitchen items.T
 built with 👇
 Html, CSS and JavaScript 
 
+
 Features ✨
 - you can add unlimited items ♾️
 - It is responsive  📱💻
+- Local storage added
+- learn JSON methods
 
