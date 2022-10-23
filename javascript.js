@@ -65,6 +65,12 @@ function editfunction(event) {
     spanEle.innerText = edittedValue;
   }
 }
+document.querySelector('.clear-button').addEventListener('click',()=>{
+  kitchenInputArray.splice(0,kitchenInputArray.length)
+  buildUI()
+  localStorage.setItem("kitchenInputdata", JSON.stringify(kitchenInputArray));
+  
+})
 KitchenList.addEventListener("click", deletefunction);
 KitchenList.addEventListener("click", editfunction);
 Button.addEventListener("click", showList);
