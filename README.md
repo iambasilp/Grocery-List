@@ -18,5 +18,5 @@ Grocery List is a simple project from the Idea of adding kitchen items.This is b
 ## Demo
 
 Insert gif or link to demo
-![To-Do List App](https://i.ibb.co/wKMX9Hp/Screenshot-124.png)
+![Grocery list](https://i.ibb.co/86vwwp6/Screenshot-124.png)
 
