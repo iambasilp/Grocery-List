@@ -17,6 +17,5 @@ Grocery List is a simple project from the Idea of adding kitchen items.This is b
 
 ## Demo
 
-Insert gif or link to demo
 ![Grocery list](https://i.ibb.co/86vwwp6/Screenshot-124.png)
 
