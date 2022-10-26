@@ -17,4 +17,4 @@ Grocery List is a simple project from the Idea of adding kitchen items.This is b
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/iambasilp)
+- [@iambasilp](https://www.github.com/iambasilp)
