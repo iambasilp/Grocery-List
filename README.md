@@ -6,6 +6,7 @@ Grocery List is a simple project from the Idea of adding kitchen items.This is b
 ## Preview
 
 ![App Screenshot](https://ibb.co/JqgzjDr)
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 ## Features
 
 - you can add unlimited items ♾️
