@@ -15,14 +15,6 @@ Grocery List is a simple project from the Idea of adding kitchen items.This is b
 
 
 
-
-
-## Demo
-
-Insert gif or link to demo
-
-https://iambasilp.github.io/Grocery-List/
-
 ## Authors
 
 - [@octokatherine](https://www.github.com/iambasilp)
